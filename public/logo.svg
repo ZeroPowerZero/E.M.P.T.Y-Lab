@@ -1,0 +1,24 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text-style { font-family: 'Verdana', sans-serif; font-weight: 900; fill: #2C3E50; }
+    .flask-stroke { stroke: #2C3E50; stroke-width: 5; stroke-linejoin: round; stroke-linecap: round; }
+  </style>
+
+  <circle cx="100" cy="100" r="95" fill="#E0F7FA" stroke="#2C3E50" stroke-width="6"/>
+
+  <path d="M82 65 L65 135 Q60 150 75 150 L125 150 Q140 150 135 135 L118 65 Z" 
+        fill="#FFFFFF" class="flask-stroke"/>
+  
+  <path d="M69 120 L67 135 Q64 145 75 145 L125 145 Q136 145 133 135 L131 120 Z" 
+        fill="#00BCD4" opacity="0.8" stroke="none"/>
+  
+  <rect x="78" y="58" width="44" height="10" rx="3" fill="#2C3E50" />
+
+  <circle cx="100" cy="100" r="6" fill="#00BCD4"/>
+  <circle cx="115" cy="90" r="4" fill="#00BCD4"/>
+  <circle cx="85" cy="110" r="3" fill="#00BCD4"/>
+
+  <text x="100" y="45" text-anchor="middle" font-size="24" class="text-style">EMPTY</text>
+  
+  <text x="100" y="185" text-anchor="middle" font-size="24" class="text-style">LAB</text>
+</svg>
